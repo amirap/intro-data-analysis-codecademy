@@ -22,19 +22,19 @@ Once you've performed your analysis, either on your computer or on Codecademy, y
 
 Create a slide deck using Google Drive, Microsoft Powerpoint, or some other presentation software. Your presentation should include the following:
 
-    A title slide
-    A section describing the data in species_info.csv. Be sure to include some (or all) of what you noticed while working through the notebook.
-    A section describing the significance calculations that you did for endangered status between different categories of species.
-    A recommendation for conservationists concerned about endangered species, based on your significance calculations
-    A section describing the sample size determination that you did for the foot and mouth disease study
-    All of the graphs that you created in the notebook
+* A title slide
+* A section describing the data in species_info.csv. Be sure to include some (or all) of what you noticed while working through the notebook.
+* A section describing the significance calculations that you did for endangered status between different categories of species.
+* A recommendation for conservationists concerned about endangered species, based on your significance calculations
+* A section describing the sample size determination that you did for the foot and mouth disease study
+* All of the graphs that you created in the notebook
 
 ### Task 3: Submit Your Project
 
-    Create a folder containing the following files
-    Save your presentation as a PDF using “save as”
-    Save your iPython notebook as a “.py” file using File > Download as > Python (.py)
-    If you created a video, create a file called video.txt with a link to the video
-    If you completed this project on codecademy.com rather than on your own computer, please create a readme.txt file that says “Completed Code in the Learning Environment”
-    Compress the file into a .zip
-    Upload it to Codecademy
+* Create a folder containing the following files
+* Save your presentation as a PDF using “save as”
+* Save your iPython notebook as a “.py” file using File > Download as > Python (.py)
+* If you created a video, create a file called video.txt with a link to the video
+* If you completed this project on codecademy.com rather than on your own computer, please create a readme.txt file that says “Completed Code in the Learning Environment”
+* Compress the file into a .zip
+* Upload it to Codecademy
