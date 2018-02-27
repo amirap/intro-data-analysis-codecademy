@@ -2,7 +2,7 @@
 
 ---
 
-### Project: Biodiversity of the National Parks
+### Capstone Project: Biodiversity of the National Parks
 
 Analyze wildlife data from several National Parks. This project will combine material from Matplotlib, Pandas, SQL, and SciPy. You can complete this project either offline (by installing Python) or online by answering questions on Codecademy.com.
 
