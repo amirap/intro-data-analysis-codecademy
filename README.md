@@ -2,7 +2,7 @@
 
 ---
 
-### Capstone Project: Biodiversity of the National Parks
+## Capstone Project: Biodiversity of the National Parks
 
 Analyze wildlife data from several National Parks. This project will combine material from Matplotlib, Pandas, SQL, and SciPy. You can complete this project either offline (by installing Python) or online by answering questions on Codecademy.com.
 
@@ -12,11 +12,11 @@ The National Parks Service would like you to perform some data analysis on the c
 
 After you perform analysis, you'll be creating a presentation to share your findings with the National Park Service.
 
-Task 1: Analyzing Data
+### Task 1: Analyzing Data
 
 Open biodiversity.ipynb in the browser tab. This will open up your Jupyter Notebook. Follow the steps in the Jupyter Notebook. It will help you do your analysis.
 
-Task 2: Create a Slide Deck
+### Task 2: Create a Slide Deck
 
 Once you've performed your analysis, either on your computer or on Codecademy, you're ready to create your slide deck.
 
@@ -29,7 +29,7 @@ Create a slide deck using Google Drive, Microsoft Powerpoint, or some other pres
     A section describing the sample size determination that you did for the foot and mouth disease study
     All of the graphs that you created in the notebook
 
-Task 3: Submit Your Project
+### Task 3: Submit Your Project
 
     Create a folder containing the following files
     Save your presentation as a PDF using “save as”
