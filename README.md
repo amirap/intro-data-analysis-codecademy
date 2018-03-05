@@ -1,5 +1,7 @@
 # Codecademy's Introduction to Data Analysis
 
+Viewable [here](https://mybinder.org/v2/gh/strongdan/intro-data-analysis-codecademy/master)
+
 ---
 
 ## Capstone Project: Biodiversity of the National Parks
