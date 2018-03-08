@@ -5,7 +5,7 @@ Viewable [here](https://mybinder.org/v2/gh/strongdan/intro-data-analysis-codecad
 ---
 - [X] Unit 1: Data Visualization with Matplotlib
 - [X] Unit 2: Data Manipulation with Pandas
-- [ ] Unit 3: Statistical Distributions with NumPy
+- [X] Unit 3: Statistical Distributions with NumPy
 - [ ] Unit 4: Hypothesis Testing with SciPy
 - [ ] Unit 5: Data Retrieval with SQL
 - [ ] Unit 6: Capstone Project
