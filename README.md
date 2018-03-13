@@ -7,7 +7,7 @@ Viewable [here](https://mybinder.org/v2/gh/strongdan/intro-data-analysis-codecad
 - [X] Unit 2: Data Manipulation with Pandas
 - [X] Unit 3: Statistical Distributions with NumPy
 - [X] Unit 4: Hypothesis Testing with SciPy
-- [ ] Unit 5: Data Retrieval with SQL
+- [X] Unit 5: Data Retrieval with SQL
 - [X] Unit 6: Capstone Project
 ---
 
